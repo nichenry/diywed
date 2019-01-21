@@ -34,7 +34,7 @@ var app = {
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
 	setTimeout(function(){ 
-         	window.open('https://diywedding.co.kr','_self','location=no');
+         	window.open('http://diywedding.co.kr','_self','location=no');
     	}, 2000);  
     },
     // Update DOM on a Received Event
